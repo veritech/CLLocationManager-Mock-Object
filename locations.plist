@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>0,10</string>
+	<string>0,20</string>
+	<string>0,30</string>
+	<string>0,40</string>
+	<string>0,50</string>
+	<string>0,60</string>
+	<string>0,70</string>
+	<string>0,80</string>
+	<string>0,90</string>
+	<string>0,100</string>
+	<string>+51.0,0.05</string>
+</array>
+</plist>
